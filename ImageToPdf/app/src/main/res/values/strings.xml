@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageToPdf</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_add_new_file">PDF Create</string>
+    <string name="pdf_name">PDF Name?</string>
+    <string name="create_pdf">Create PDF</string>
+    <string name="pdf_image">PDF Image</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="copyright">copyright @muktolab.com 2017</string>
+</resources>

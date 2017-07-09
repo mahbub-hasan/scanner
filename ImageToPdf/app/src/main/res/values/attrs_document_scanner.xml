@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="DocumentScanner">
+        <attr name="documentType" format="string"/>
+    </declare-styleable>
+</resources>
